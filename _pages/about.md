@@ -7,9 +7,10 @@ redirect_from:
   - /about.html
 ---
 Currently I'm a master student in [Zhejiang University](https://www.zju.edu.cn/english/), under the supervision of Professor [Zhen Chen](https://scholar.google.com/citations?user=HZIqqJYAAAAJ&hl=en). Previously, I studied aircraft desgin and engineering at [Dalian University of Technology](https://en.dlut.edu.cn/).
-My research interest includes robotics, learning based control, path optimization and motion planning.
-you can find my CV here:[LufanYang's Curriculum Vitae](../assets/Curiculum_Vitae.pdf)
-My overarching goal is to make intelligent robot capable of adapting to various environment, eventually making them part of our lives. 
+
+My research interest includes robotics, learning based control, path optimization and motion planning. My overarching goal is to make intelligent robot capable of adapting to various environment, eventually making them part of our lives. 
+
+you can find my CV here:*[LufanYang's Curriculum Vitae](../assets/Curiculum_Vitae.pdf)*
 
 A data-driven personal website
 ======
